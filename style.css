@@ -1,0 +1,10 @@
+center{
+    font-family: 'Libre Franklin', sans-serif;
+}
+body{
+    background:linear-gradient(  to bottom right,rgb(255, 175, 129),rgb(146, 184, 216)) !important;
+}
+canvas{
+    border:solid 2px #333333;
+    border-radius: 5%;
+}
